@@ -13,4 +13,3 @@ Top Churn Predictors
 2. Total Charges (0.35)
 3. Tenure (0.20)
 
-![Feature Importance Plot](feature_importance.png)  
